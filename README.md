@@ -1,5 +1,3 @@
-#HumiiCustom3DSTheme
-
 A custom Nintendo 3DS Home Menu Theme! Made with 3DS Theme Editor (https://github.com/usagirei/3DS-Theme-Editor)
 
 To use this theme you must need:
