@@ -13,4 +13,4 @@ Plug in the SD Card, power on your 3DS and launch your desired theme manager. Th
 
 
 
-Note: For users who already use custom themes, make a shuffle list for some of your themes and continiously power your device on and off until the theme shows up.
+Note: For users who already use custom themes, make a shuffle list for some of your themes (maybe like 10 or 11 or less if you don't have that many) and continiously power your device on and off until the theme shows up.
